@@ -1,0 +1,18 @@
+{
+  "generator": {
+    "name": "VRS/A",
+    "fullName": "Vocals, Rhythms, Style, Audio.",
+    "version": "1.0.0",
+    "website": "https://vrsa.app"
+  },
+  "exportFormat": "V/RSA",
+  "exportedAt": "2026-04-23T14:18:56.021Z",
+  "sessionId": "08e61931-7309-40a2-8281-e04e99609d55",
+  "memoryEnabled": false,
+  "statistics": {
+    "totalMessages": 0,
+    "userMessages": 0,
+    "assistantMessages": 0
+  },
+  "messages": []
+}
